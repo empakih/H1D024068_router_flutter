@@ -8,7 +8,7 @@
 
 Tugas Praktikum Pemrograman Mobile: membuat aplikasi Flutter (`router_flutter`) yang mengimplementasikan sistem autentikasi login, penyimpanan sesi lokal (`shared_preferences`), navigasi rute halaman, dan menu navigasi samping (Drawer) sesuai Modul 3.
 
-## Screenshot
+## Screenshot & Demo
 
 | Halaman Login | Dialog Berhasil Login | Dialog Gagal Login |
 |---|---|---|
@@ -17,6 +17,13 @@ Tugas Praktikum Pemrograman Mobile: membuat aplikasi Flutter (`router_flutter`) 
 | Home Page | Side Menu (Drawer) | About Page |
 |---|---|---|
 | ![Home Page](screenshots/home.png) | ![Side Menu](screenshots/sidemenu.png) | ![About Page](screenshots/about.png) |
+
+### Rekaman Demo Aplikasi
+
+> Video rekaman alur pengujian aplikasi (Login, Validasi, Session SharedPreferences, dan Navigasi Drawer):  
+> 📹 **[Tonton Rekaman Demo (MP4)](screenshots/screenrecordrouterflutter.mp4)**
+
+<video src="screenshots/screenrecordrouterflutter.mp4" width="360" controls></video>
 
 ## Yang Dikerjakan
 
@@ -59,7 +66,7 @@ lib/
 ├── home_page.dart   Halaman utama (menampilkan user & drawer)
 ├── about_page.dart  Halaman About (menampilkan info & drawer)
 └── sidemenu.dart    Komponen Drawer menu navigasi
-screenshots/         Tangkapan layar hasil implementasi aplikasi
+screenshots/         Tangkapan layar dan rekaman video demo aplikasi
 ```
 
 ## Cara Menjalankan
