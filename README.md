@@ -19,11 +19,7 @@ Tugas Praktikum Pemrograman Mobile: membuat aplikasi Flutter (`router_flutter`) 
 | ![Home Page](screenshots/home.png) | ![Side Menu](screenshots/sidemenu.png) | ![About Page](screenshots/about.png) |
 
 ### Rekaman Demo Aplikasi
-
-> Video rekaman alur pengujian aplikasi (Login, Validasi, Session SharedPreferences, dan Navigasi Drawer):  
-> 📹 **[Tonton Rekaman Demo (MP4)](screenshots/screenrecordrouterflutter.mp4)**
-
-<video src="screenshots/screenrecordrouterflutter.mp4" width="360" controls></video>
+https://github.com/user-attachments/assets/f9d24c7d-d28e-47f9-8524-f7f03df55788
 
 ## Yang Dikerjakan
 
